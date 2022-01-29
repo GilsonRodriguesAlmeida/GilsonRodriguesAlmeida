@@ -1,29 +1,20 @@
-### Olá! Eu sou o Gilson Rodrigues de Almeida 🖖
+### Olá eu sou Gilson 😎
 
-- 🔭 Hoje apenas estudando...
-- 🌱 Estudando Java, Kotlin, JavaScript, Html ...
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gilson-rodrigues-de-almeida) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GilsonRodriguesAlmeida)
 
-<div align="center">
-  <a href="https://github.com/GilsonRodriguesAlmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilsonRodriguesAlmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilsonRodriguesAlmeida&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-##  
+![GilsonRodriguesAlmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=GilsonRodriguesAlmeida&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilsonRodriguesAlmeida&layout=compactlangs_count=9&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gilson-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gilson-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
-  
-##
-  
-<div>
-  
-<a href="https://www.linkedin.com/in/gilson-rodrigues-de-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/GilsonRodriguesAlmeida/GilsonRodriguesAlmeida/blob/output/github-contribution-grid-snake.svg)
-</div>
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</div><br/>
+
+A cada dia mais facinado com o mundo Dev.
